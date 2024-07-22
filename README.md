@@ -2,48 +2,26 @@
 - 👋 Hi, I’m 扑克云(PokerCloud)，致力于为用户提供高速稳定的高性价比网络中继服务; 体验宛若身在海外的访问速度，适用于您的任何设备及网络，为您的科学上网保驾护航 #vpn #科学上网
 - 👀 优势: 
 · 拥有高防入口，2G以及以上带宽(截至24/7/22有10G带宽)，多入口
-· 拥有流媒体全解锁，拥有自治的ChatGPT前端服务(官方API)  流媒体解锁图[]
+![image](https://github.com/user-attachments/assets/17d9a06b-211d-43c1-890c-31e361041cc7)
+
+· 拥有流媒体全解锁，拥有自治的ChatGPT前端服务(官方API)  
+![2024-07-09T21-04-16](https://github.com/user-attachments/assets/50f52385-f212-40eb-a9f5-d62f58257b7b)
+
+
 · 购买订阅即可享受EMBY服务，link: https://eb.pokeryun.com/emby 【emby教程】
+![image](https://github.com/user-attachments/assets/92c825c9-253c-4d92-a31e-8edecab15522)
+
 · 老板均在海外当地合法开设机场VPN  location: 东南亚/欧洲
+![image](https://github.com/user-attachments/assets/9961e8c6-5279-486f-a335-ade35c4680d8)
+
 
 - 🌱 价格详情
-=================
-LV1 （直连）
-套餐       月付      年付　服务享受
-20g        2        20　　　×
-=================
-LV2 （普通中转）
-套餐     月付    季付   半年付   年付    两年付　服务享受
-200g     15     45     90     180     360  　　　×
-=================
-LV3 （优质中转）
-套餐     月付    季付   半年付   年付   两年付        服务享受
-118g     12     36      72     144      288          ×
-218g     20     60      120    240      480         EMBY
-318g     30     90      180    360      720         EMBY
-588g     58     174     348    696      1392     EMBY+TG低价代开会员
-=================
-套餐     有效期      价格         更新周期           续费模式
-300g     1年        66           不更新          年返场套餐(年300g年续)
-500g     1年        108          不更新          年返场套餐(年300g年续)
+![image](https://github.com/user-attachments/assets/13ea987a-01f9-4335-b8a2-984b1c446930)
+
 =================
 LV3 尊享套餐 Poker Premium
+![image](https://github.com/user-attachments/assets/548a6861-16a9-427f-bc01-494cb61c2be6)
 
-🚀预售「Poker Premium」套餐🚀
-
-背景:由于客户对流媒体和AI日渐增加的需求，扑克云正式推出「Poker Premium」套餐，旨在一站式满足您的会员需求.
-
-===========套餐===========
-年费Spotify家庭车
-独享奈飞家庭车
-YouTube premium
-ChatGPT(前端新开发+官方API)
-888g流量/年
-===========价格===========
-鉴于会员成本的考虑，暂不提供「Poker Premium」月套餐，而只提供年付套餐.
-
-预售价格: 699CNY/年   1299CNY/2年
-正式价格: 888CNY/年   1688CNY/2年
 
 ~~~扑克云VPN生态公告栏 ~~~
 - 🌱 EMBY影视教程:  https://eb.pokeryun.com/emby
@@ -54,3 +32,4 @@ ChatGPT(前端新开发+官方API)
 
 ------- 注意事项--------
 禁止黄赌毒假钞等违法交易
+
