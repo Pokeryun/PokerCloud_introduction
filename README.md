@@ -3,6 +3,7 @@
 - 👀 优势: 
 · 拥有高防入口，2G以及以上带宽(截至24/7/22有10G带宽)，多入口
 ![image](https://github.com/user-attachments/assets/17d9a06b-211d-43c1-890c-31e361041cc7)
+![image](https://github.com/user-attachments/assets/6e4fb61c-cf5c-4ce9-af71-403e7b3cc5cb)
 
 
 · 拥有流媒体全解锁，拥有自治的ChatGPT前端服务(官方API)  
